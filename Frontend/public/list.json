@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "name": "Paris, France",
+        "title": "  The City of Love",
+        "price": "598",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/532826/pexels-photo-532826.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 2,
+        "name": "Rome, Italy ",
+        "title": "The Eternal City",
+        "price": "446",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/753639/pexels-photo-753639.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 3,
+        "name": "Switzerland",
+        "title": " The Majestic Mountain Range",
+        "price": "550",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/18861249/pexels-photo-18861249/free-photo-of-view-of-the-matterhorn-in-swiss-alps.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 4,
+        "name": "Maui, USA",
+        "title": " The Valley Isle",
+        "price": "654",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/3938947/pexels-photo-3938947.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 5,
+        "name": "London, England ",
+        "title": "The Royal Capital",
+        "price": "598",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/427679/pexels-photo-427679.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 6,
+        "name": "Maldives",
+        "title": " Paradise on Earth",
+        "price": "380",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/1320686/pexels-photo-1320686.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 7,
+        "name": "Turks Islands",
+        "title": " Tropical Paradise",
+        "price": "200",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/220762/pexels-photo-220762.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 8,
+        "name": "Tokyo, Japan",
+        "title": "  The Metropolis of Modernity",
+        "price": "456",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/2341830/pexels-photo-2341830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 9,
+        "name": "Phuket, Thailand",
+        "title": " The Pearl of the Andaman",
+        "price": "354",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/2867732/pexels-photo-2867732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 10,
+        "name": "South Island, New Zealand",
+        "title": " Nature's Playground",
+        "price": "289",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/18570166/pexels-photo-18570166/free-photo-of-snowcapped-mountain-peaks-in-mount-cook-national-park.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 11,
+        "name": "Tahaiti",
+        "title": "  The Jewel of French Polynesia",
+        "price": "394",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/1628086/pexels-photo-1628086.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 12,
+        "name": "Banff, Canada",
+        "title": " Gateway to the Canadian Rockies",
+        "price": "298",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 13,
+        "name": "Great Barrier Reef, Australia ",
+        "title": " World's Largest Coral Reef System",
+        "price": "421",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/5714053/pexels-photo-5714053.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 14,
+        "name": "Amsterdam, Netherlands",
+        "title": "The Venice of the North",
+        "price": "277",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/415352/pexels-photo-415352.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 15,
+        "name": "Barcelona, Spain",
+        "title": "The City of Gaudí",
+        "price": "254",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/1782436/pexels-photo-1782436.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 16,
+        "name": "St.Lucia",
+        "title": " Caribbean Gem",
+        "price": "200",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/580151/pexels-photo-580151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 17,
+        "name": "Sydney, Australia",
+        "title": " Harbour City",
+        "price": "300",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/2193300/pexels-photo-2193300.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 18,
+        "name": "Dubai, UAE",
+        "title": "The City of Superlatives",
+        "price": "495",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/618079/pexels-photo-618079.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 19,
+        "name": "New York City, USA ",
+        "title": " The Big Apple",
+        "price": "576",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/1239162/pexels-photo-1239162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 20,
+        "name": "Santorini, Greece",
+        "title": " The Island of White and Blue",
+        "price": "279",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/1010657/pexels-photo-1010657.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 21,
+        "name": "Bali, Indonesia",
+        "title": "The Island of Gods",
+        "price": "485",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 22,
+        "name": "Tulum, Mexico",
+        "title": " Mayan Ruins by the Sea",
+        "price": "564",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/5703115/pexels-photo-5703115.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 23,
+        "name": "Florence, Ital",
+        "title": "The Cradle of the Renaissance",
+        "price": "567",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/161376/firenze-florence-italy-europe-161376.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 24,
+        "name": "Grand Canyon, USA",
+        "title": "Natural Wonder",
+        "price": "552",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/161820/monument-valley-west-western-161820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 25,
+        "name": "Australia",
+        "title": " Island of Wilderness",
+        "price": "254",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/1089071/pexels-photo-1089071.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "id": 26,
+        "name": "Zanzibar, Tanzania",
+        "title": "  The Spice Island",
+        "price": "356",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/13675824/pexels-photo-13675824.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 27,
+        "name": "Canada",
+        "title": "True North Strong and Free",
+        "price": "567",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/1868676/pexels-photo-1868676.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 28,
+        "name": "Bangkok, Thailand",
+        "title": "The City of Angels",
+        "price": "478",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/1374377/pexels-photo-1374377.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 29,
+        "name": "Bhutan",
+        "title": " Land of the Thunder Dragon",
+        "price": "563",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/15275546/pexels-photo-15275546/free-photo-of-brown-statue-under-cloudy-sky.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 30,
+        "name": "Krabi, Thailand",
+        "title": " Paradise of Stunning Beaches",
+        "price": "485",
+        "category": "explore",
+        "image": "https://images.pexels.com/photos/4000161/pexels-photo-4000161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+]
